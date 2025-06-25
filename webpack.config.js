@@ -25,7 +25,7 @@ module.exports = {
                 { from: 'src/styles.css', to: 'styles.css' },
                 { from: 'src/ask_ai_background.png', to: 'ask_ai_background.png' },
                 { from: 'src/stop_ai_background.png', to: 'stop_ai_background.png' },
-                { from: 'src/background.png', to: 'background.png' }
+                { from: 'src/background.jpg', to: 'background.jpg' }
             ],
         }),
     ]
